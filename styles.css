@@ -1,0 +1,10 @@
+main {
+  background-color: #fdeded;
+  height: 70vh;
+  min-width: 100%;
+}
+.img-fondo {
+  height: 30vh;
+  background-color: #fdeded;
+  min-width: 100%;
+}
